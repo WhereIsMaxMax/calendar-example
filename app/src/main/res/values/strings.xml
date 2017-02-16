@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BinomTest</string>
+    <string name="title">Напоминания</string>
+    <string name="hint">Подсказка</string>
+    <string name="action_settings">Настройки</string>
+    <string name="add">Добавить...</string>
+    <string name="ok">Ок</string>
+</resources>
